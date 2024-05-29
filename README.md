@@ -6,6 +6,11 @@
     - Moving your mouse left and right can control the size (width) of the drawing particles
     - Moving your mouse up and down can shift the colour between all black and the original one.
     - Clicking your mouse can clear the page and the particles will re-generate.
+    ![1](screenshots/scsh_3.png)
+    ![2](screenshots/scsh_4.png)
+    ![3](screenshots/scsh_6.png)
+    ![4](screenshots/scsh_7.png)
+    ![5](screenshots/scsh_8.png)
 
 - **Details of approach**
     - The method I have chosen to modify my group code was the 'User Input'.
